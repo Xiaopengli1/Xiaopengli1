@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there 👋 This is Xiaopeng Li.
+
+- 🌱 I’m currently a Ph.D. student at City University of Hong Kong.
+- 🔭 I’m currently working on LLMs application in the area of Inforamtion Retrieval and Recommendation Systems.
+- 👯 I’m looking for a related collaboration, feel free to contact me ~
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Xiaopengli1?cardType=octocat&theme=github&preferLogin=true)](https://git.io/awesome-stats-card)
 
 <!--
-**Xiaopengli1/Xiaopengli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
