@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Xiaopeng Li.
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaopengLi_personal_page)
+![](https://visitor-badge.laobi.icu/badge?page_id=XiaopengLi1.cityu.readme)
 - 🌱 I’m currently a Ph.D. student at City University of Hong Kong.
 - 🔭 I’m currently working on LLMs application in the area of Inforamtion Retrieval and Recommendation Systems.
 - 👯 I’m looking for a related collaboration, feel free to contact me ~
