@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on LLMs application in the area of Inforamtion Retrieval and Recommendation Systems.
 - 👯 I’m looking for a related collaboration, feel free to contact me ~
 
-![](https://visitor-badge.laobi.icu/badge?page_id=XiaopengLi1.cityu.readme)
+![](https://visitor-badge.laobi.icu/badge?page_id=Xiaopengli1.visitor-badge.readme.1)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Xiaopengli1?cardType=octocat&theme=github&preferLogin=true)](https://git.io/awesome-stats-card)
 
