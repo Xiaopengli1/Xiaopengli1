@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xiaopengli1.visitor-badge.readme.1)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Xiaopengli1?cardType=octocat&theme=github&preferLogin=true)]()
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Xiaopengli1?cardType=octocat&theme=github&preferLogin=true)](https://github.com/Xiaopengli1)
 
 <!--
 
